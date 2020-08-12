@@ -15,8 +15,11 @@ npm install -S @feizheng/next-is-wk-webview
 ```js
 import '@feizheng/next-is-wk-webview';
 
-//DOCS here!
+nx.isWkWebview();
 ```
+
+## resources
+- https://stackoverflow.com/questions/28795476/detect-if-page-is-loaded-inside-wkwebview-in-javascript
 
 ## license
 Code released under [the MIT license](https://github.com/afeiship/next-is-wk-webview/blob/master/LICENSE.txt).
