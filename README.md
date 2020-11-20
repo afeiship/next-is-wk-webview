@@ -13,7 +13,7 @@ npm install -S @jswork/next-is-wk-webview
 
 ## usage
 ```js
-import '@feizheng/next-is-wk-webview';
+import '@jswork/next-is-wk-webview';
 
 nx.isWkWebview(); // true/false
 ```
