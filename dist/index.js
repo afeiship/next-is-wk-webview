@@ -3,7 +3,7 @@
  * description: Detect if is wkwebview.
  * homepage: https://github.com/afeiship/next-is-wk-webview
  * version: 1.0.0
- * date: 2020-11-20 17:17:49
+ * date: 2020-11-20 17:19:04
  * license: MIT
  */
 
